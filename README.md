@@ -1,8 +1,7 @@
 # Flexibot
 Flexibot – a specially designed robot to make exercise fun, engaging, and accessible to everyone.
 
-[Displaying the key features of Flexibot] 
-
+# Key Features:
     -Fall detection ensures safety during use. 
 
     -Encouraging messages from a built-in speaker motivate users throughout their exercise session. 
